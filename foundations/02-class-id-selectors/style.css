@@ -1,0 +1,16 @@
+.header{
+
+background-color: lightpink;
+font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+#title{
+
+    color: blue;
+    font-size: 32px;
+
+}
+#anothertitle{
+    background-color: lightgreen;
+    font-size: 24x;
+    font-weight: bold;
+}
